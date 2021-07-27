@@ -1,0 +1,26 @@
+_repo: Wounded-Souls_65907
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibbs, Philip
+    aliases:
+    - Gibbs, Phillip
+    - Gibbs, Philip Hamilton, Sir
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '1174'
+    url: http://www.gutenberg.org/2009/agents/1174
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Gibbs
+description: ''
+gutenberg_issued: '2021-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wounded Souls
+url: http://www.gutenberg.org/ebooks/65907
